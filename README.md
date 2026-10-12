@@ -17,7 +17,7 @@ Web de concesionario de vehículos creada con WordPress, Elementor y WooCommerce
 - Formulario de contacto, "Quiénes somos" y métodos de contacto (junto a una política de privacidad completa en el footer)
 - La web está disponible para observar en formato móvil
 
-💻## Tecnologías
+## Tecnologías 💻
 
 WordPress · Elementor · WooCommerce · Contact Form 7 · Yoast SEO · CSS personalizado
 
