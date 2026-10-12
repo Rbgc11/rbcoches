@@ -18,6 +18,7 @@ Web de concesionario de vehículos creada con WordPress, Elementor y WooCommerce
 - La web está disponible para observar en formato móvil
 
 💻 Tecnologías
+
 WordPress · Elementor · WooCommerce · Contact Form 7 · Yoast SEO · CSS personalizado
 
 CSS personalizado
