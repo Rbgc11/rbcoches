@@ -2,7 +2,7 @@
 
 Web de concesionario de vehículos creada con WordPress, Elementor y WooCommerce.
 
-🎥 https://youtu.be/9V9CuHKkKF4?si=Da_dtV6ihXua5gMw
+🎥 https://youtu.be/9V9CuHKkKF4
 
 > Proyecto de demostración realizado en entorno local (XAMPP). No contiene servidor en activo.
 
