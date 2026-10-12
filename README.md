@@ -6,8 +6,13 @@ Web de concesionario de vehículos creada con WordPress, Elementor y WooCommerce
 
 > Proyecto de demostración realizado en entorno local (XAMPP). No contiene servidor en activo.
 
-![Inicio](Capturas/Inicio.png) (Imagen de la portada)
-![Inicio](Capturas/Movil.png) (Imagen de la portada en formato movil)
+> El contenido de WordPress está en su base de datos, no en archivos. Por eso el repositorio incluye solo el CSS propio, capturas y el vídeo de demostración.
+
+  PORTADA
+![Inicio](Capturas/Inicio.png) 
+
+  PORTADA EN FORMATO MOVIL
+![Inicio](Capturas/Movil.png) 
 
 ¿ Qué incluye la web?
 - Página de inicio con vehículos destacados, testimonios y motivos para elegir esa empresa
