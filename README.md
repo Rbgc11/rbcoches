@@ -11,15 +11,15 @@ Web de concesionario de vehículos creada con WordPress, Elementor y WooCommerce
 ![Inicio](Capturas/Inicio.png) 
 
 
-¿ Qué incluye la web?
+## ¿ Qué incluye la web?
 - Página de inicio con vehículos destacados, testimonios y motivos para elegir esa empresa
 - Catálogo con ordenación y ficha de cada vehículo
 - Formulario de contacto, "Quiénes somos" y métodos de contacto (junto a una política de privacidad completa en el footer)
 - La web está disponible para observar en formato móvil
 
-💻 Tecnologías
+💻## Tecnologías
 
 WordPress · Elementor · WooCommerce · Contact Form 7 · Yoast SEO · CSS personalizado
 
-CSS personalizado
+## CSS personalizado
 Los ajustes de estilo propios están en [`Css/custom.css`](Css/custom.css).
