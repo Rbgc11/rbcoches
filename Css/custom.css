@@ -1,0 +1,40 @@
+header.boxes-header .cover {
+  min-height: 80px !important;
+  padding: 15px 0 !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+header.boxes-header .cover .text {
+  text-align: center !important;
+}
+
+header.boxes-header .cover .the-title h1 {
+  font-size: 24px !important;
+  margin: 0 !important;
+}
+
+.onsale {
+  background-color: #e67e22 !important;
+  color: #ffffff !important;
+}
+
+.wpcf7-submit {
+  background-color: #e67e22 !important;
+  color: #ffffff !important;
+  border: none !important;
+  padding: 12px 30px !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+@media (max-width: 575px) {
+  .site-logo img,
+  .custom-logo-link img {
+    width: 70px !important;
+    height: auto !important;
+  }
+}
+
